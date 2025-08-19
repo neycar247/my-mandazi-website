@@ -1,0 +1,36 @@
+.nabar{
+    background-color: lightblue;
+    overflow: hidden;
+}
+#paragraph {
+    font-size: 20px;
+    color: darkgray;
+    text-align: center;
+}
+.navbar-ul {
+    list-style-type: none;
+    padding: 0;
+}
+.navbar-ul-items {
+    display: inline;
+    margin: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+.navbar-ul-items a {
+    text-decoration: underline;
+    color: black;
+}
+#title {
+    text-align: center;
+    font-size: 36px;
+    background-color: lightgoldenrodyellow;
+}
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  background-color: lightgray;
+}
